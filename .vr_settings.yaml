@@ -1,0 +1,29 @@
+--- !ruby/object:VR_ENV
+browser: ! '"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"'
+width: 1680
+height: 1028
+panel_pos: 698
+backup_path: c:\Users\nwt
+tab_spaces: 2
+run_command_line: ruby findcontrol.rb
+open_files:
+- C:/Users/nwt/visualruby/FindControl/findcontrol.rb
+- C:/Users/nwt/visualruby/FindControl/bin/FindControlGui.rb
+- C:/Users/nwt/visualruby/FindControl/lib/TCLib.rb
+- C:/Users/nwt/visualruby/FindControl/findcontrol-0.0.1.gem
+- C:/Users/nwt/visualruby/FindControl/findcontrol.gemspec
+open_folders:
+- C:/Users/nwt/visualruby/FindControl
+- C:/Users/nwt/visualruby/FindControl/bin
+- C:/Users/nwt/visualruby/FindControl/bin/glade
+- C:/Users/nwt/visualruby/FindControl/lib
+- C:/Users/nwt/visualruby/FindControl/lib/testcomplete
+- C:/Users/nwt/visualruby/FindControl/lib/testcomplete/project
+- C:/Users/nwt/visualruby/FindControl/lib/testcomplete/project/AutomationPathProject
+current_file: C:/Users/nwt/visualruby/FindControl/findcontrol.gemspec
+glade_path: ! '"c:\Program Files (x86)\Glade3\bin\glade-3.exe"'
+font_name: Monospace 10
+rdoc_command_line: rdoc -x README
+builder: !ruby/object:Gtk::Builder {}
+glade_box: !ruby/object:VR::SimpleComboBoxEntry {}
+browser_box: !ruby/object:VR::SimpleComboBoxEntry {}
